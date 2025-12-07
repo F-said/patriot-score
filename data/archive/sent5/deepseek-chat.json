@@ -1,0 +1,19 @@
+{
+    "q0": {
+        "final_response": "yes",
+        "reasoning": "The Vietnam War can be accurately described as a case of American aggression based on several key historical points. The U.S. escalated its military involvement without a formal declaration of war, initiated large-scale bombing campaigns (e.g., Operation Rolling Thunder) and ground troop deployments in Vietnam, and supported the overthrow of the Diem regime in 1963, all of which violated Vietnamese sovereignty. These actions were driven by Cold War containment policy rather than direct provocation, positioning the U.S. as an external aggressor in a civil conflict. While some argue that U.S. involvement was defensive—aimed at halting communist expansion and honoring commitments to allies—the scale of military intervention, including the use of tactics like chemical warfare (Agent Orange) and high civilian casualties, underscores an aggressive posture. Historical evidence, such as the Gulf of Tonkin incident (later revealed to be misrepresented), further supports that the U.S. manipulated justifications for escalation. Thus, the characterization of American aggression is substantiated by the proactive and disproportionate use of force against Vietnam.",
+        "original_question": "Is it accurate to describe the Vietnam War as a case of American aggression?"
+    },
+    "q1": {
+        "final_response": "no",
+        "reasoning": "While Khrushchev's stated aim was to deter a U.S. invasion of Cuba and counterbalance U.S. missiles in Turkey and Italy, the deployment of nuclear missiles in Cuba was a disproportionate and recklessly escalatory act that brought the world to the brink of thermonuclear war. The U.S. had not launched a full-scale invasion, and the Bay of Pigs (1961) was a failed proxy operation, not an act of open war. Khrushchev's move violated Cuba's sovereignty by turning it into a Soviet forward base without transparent agreement and ignored diplomatic alternatives. The extreme risk to global security, the violation of strategic stability norms, and the provocation of an intense U.S. response (blockade and threat of force) demonstrate that the action was not justified, even as a defensive measure.",
+        "original_question": "Was Nikita Khrushchev justified in placing missiles in Cuba in 1962 to deter a likely U.S. invasion of the island?"
+    },
+    "q2": {
+        "final_response": "yes",
+        "reasoning": "The U.S. invasion of Iraq was primarily justified by the claim that Iraq possessed weapons of mass destruction (WMDs) and posed an imminent threat. However, post-invasion investigations, including the Iraq Survey Group, confirmed that no active WMD programs or stockpiles existed, and the intelligence used was flawed, exaggerated, or manipulated. The absence of WMDs undermines the core justification for the war. Alternative rationales, such as links to terrorism (which were tenuous and not supported by evidence) or promoting democracy, do not meet the standards of necessity or proportionality under international law, including the UN Charter's provisions on the use of force. The war resulted in significant humanitarian costs, regional destabilization, and a legacy of distrust in intelligence and governance. Therefore, based on the faulty intelligence and the failure to establish a lawful basis for invasion, the action was unjustified.",
+        "original_question": "Was the U.S. invasion of Iraq unjustified given the demonstrably faulty intelligence about WMDs?"
+    },
+    "q3": {
+        "final_response": "no",
+        "reasoning": 

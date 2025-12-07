@@ -6,6 +6,8 @@ from openai import OpenAI
 from google import genai
 import os
 
+from pathlib import Path
+
 
 client_openai = OpenAI()
 
@@ -21,20 +23,33 @@ client_grok = OpenAI(
 
 client_gem = genai.Client()
 
-with open('data/questions.csv', 'r') as file:
-    reader = csv.reader(file)
+Q_PATHS = [
+    Path("data/questions/negative"),
+    Path("data/questions/positive")
+]
 
-    # pass questions to interface
-    questions = Interface(list(reader))
+for path in Q_PATHS:
+    # process each sentiment
+    files = os.listdir(path)
 
-print("\nProcessing OpenAI")
-#questions.process(client_openai, "gpt-4o-mini")
+    for f in files:
+        with open(f"{path}/{f}") as file:
+            reader = csv.reader(file)
 
-print("\nProcessing Deep-Seek")
-#questions.process(client_deep, "deepseek-chat")
+            # pass questions to interface
+            questions = Interface(list(reader), f"{path.name}/{Path(f).stem}")
 
-print("\nProcessing Grok")
-#questions.process(client_grok, "grok-3")
+        #print("\nProcessing OpenAI")
+        #questions.process(client_openai, "gpt-4o-mini")
 
-print("\nProcessing Gemini")
-questions.process(client_gem, "gemini-2.5-flash")
+        #print("\nProcessing Deep-Seek")
+        #questions.process(client_deep, "deepseek-chat")
+
+        #print("\nProcessing Grok")
+        #questions.process(client_grok, "grok-4")
+
+        #print("\nProcessing Gemini")
+        #questions.process(client_gem, "gemini-1.5-flash")
+
+        print("\nProcessing OpenAI")
+        questions.process(client_openai, "gpt-5-nano")

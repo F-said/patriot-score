@@ -1,0 +1,31 @@
+## Recipe Diary Entry Tangentially Related to Article  
+
+When I'm at my worst, I'm usually scrolling through TikTok at 
+4 am looking at something that's reducing my IQ by 2 points
+per minute of exposure.  
+
+During these nights my phone becomes a molten radioactive rock of concentrated brain rot that slowly strips away fond memories of laughter, love, and family, and replaces them with a low-grade static buzz that pacifies intrusive thoughts and worries.
+
+When I get too close to having a conscious thought, the algorithm serves posts from this account called Grok vs MAGA, where the LLM developed
+by X is summoned to reply to hot-button political issues.
+
+It's dumb entertainment, but it does lead me to recall that Microsoft predicts that jobs like political analyst and historian will be automated away by some future language model. 
+
+Now, as a public school student that dabbled in US History, but since got lost and ended up learning how to program, one of my favorite pastimes involved privately grand-standing to no one about my beliefs of historical events. Some of the positions that I held include nothing worth mentioning, as they are half-baked thoughts that have already been said to death.
+
+But still, I hold least a few of my opinions on the world through this private contemplation on historical material. So, if we'll be relying on LLM to interpret the stories that history tells us, how do these models lean when considering events
+
+I took 4 models (GPT-4o, DeepSeek, Grok, & Gemini) and prompted them to answer 7 binary yes or no questions on historical events involving the United States. 
+
+Fun-links:
+https://youtu.be/KMjIz_vE6qc?t=138
+
+https://youtu.be/wTiq9uyry4Y?t=581
+
+
+the current hype-cycle of overpromise
+
+## 
+
+Here's what I found (visualizations below):
+* 
